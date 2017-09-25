@@ -3,10 +3,8 @@
 // in case of tie, it matches the first one.
 
 #include <iostream>
-#include <fstream>
 #include <string>
 #include <stack>
-#include <unordered_map>
 
   std::stack<std::string> stk;
   void mirror();
