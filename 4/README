@@ -1,0 +1,13 @@
+Name: Cencen Zheng
+
+Clemson Email Address: cencenz@clemson.edu
+
+Project no: 4
+
+Project due date: Nov 13, 2017
+
+Project description: Building an AST
+
+The easiest part of this project: Integrate ast nodes to parser's semantic actions.
+
+Problems that I had in completing this project: Trying to only use FloatLiteral like JavaScript. 
